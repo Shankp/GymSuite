@@ -1,2 +1,2 @@
 # GymSuit
-Simple web application to manaeg gym activities
+Simple web application to manage gym activities
